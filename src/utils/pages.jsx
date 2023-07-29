@@ -4,7 +4,7 @@ const Shop = lazy(()=> import("../pages/Shop"))
 const SingleProduct = lazy(()=> import("../pages/SingleProduct"))
 export default [
     {
-        path: "/home",
+        path: "/",
         element: <HomePage/>,
     },
     {
