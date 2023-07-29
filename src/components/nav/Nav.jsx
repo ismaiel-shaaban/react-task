@@ -22,7 +22,7 @@ class Navbar extends Component {
               </div>
     
               <div className="nav-list d-flex">
-                <Link  to="/home">Home</Link>
+                <Link  to="/">Home</Link>
                 <Link to="/shop">Shop</Link>
                 <Link to="/products/1">Single Product</Link>
                 
