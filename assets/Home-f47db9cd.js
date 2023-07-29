@@ -1,0 +1,1 @@
+import{r as s,j as e}from"./index-2ce68d1f.js";import{L as o}from"./Layout-269a97b5.js";class m extends s.Component{render(){return e.jsx(o,{children:e.jsx("div",{className:"home-component",children:e.jsx("img",{src:"/images/logo.png",alt:""})})})}}export{m as default};

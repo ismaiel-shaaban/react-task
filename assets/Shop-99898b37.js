@@ -1,0 +1,1 @@
+import{r as o,j as e}from"./index-2ce68d1f.js";import{L as r}from"./Layout-269a97b5.js";class n extends o.Component{render(){return e.jsx(r,{children:e.jsx("div",{className:"home-component",children:"shop page"})})}}export{n as default};
